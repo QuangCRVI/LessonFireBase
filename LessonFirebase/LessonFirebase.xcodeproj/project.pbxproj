@@ -44,6 +44,22 @@
 		E3CDBB762BC91DD600A7599B /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB752BC91DD600A7599B /* FirebaseRemoteConfigSwift */; };
 		E3CDBB782BC91DD600A7599B /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB772BC91DD600A7599B /* FirebaseStorage */; };
 		E3CDBB7A2BC91DD600A7599B /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB792BC91DD600A7599B /* FirebaseStorageCombine-Community */; };
+		E3CDBB7D2BC9269900A7599B /* RegisterVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3CDBB7C2BC9269900A7599B /* RegisterVC.xib */; };
+		E3CDBB7E2BC9269900A7599B /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB7B2BC9269900A7599B /* RegisterVC.swift */; };
+		E3CDBB812BC9343300A7599B /* Toast in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB802BC9343300A7599B /* Toast */; };
+		E3CDBB842BC934BF00A7599B /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB832BC934BF00A7599B /* IQKeyboardManagerSwift */; };
+		E3CDBB872BC9351800A7599B /* NVActivityIndicatorView in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB862BC9351800A7599B /* NVActivityIndicatorView */; };
+		E3CDBB892BC9351800A7599B /* NVActivityIndicatorViewExtended in Frameworks */ = {isa = PBXBuildFile; productRef = E3CDBB882BC9351800A7599B /* NVActivityIndicatorViewExtended */; };
+		E3CDBB8B2BC93A0E00A7599B /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB8A2BC93A0E00A7599B /* BaseViewController.swift */; };
+		E3CDBB8E2BCA49D100A7599B /* ForgotPasswordVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3CDBB8D2BCA49D100A7599B /* ForgotPasswordVC.xib */; };
+		E3CDBB8F2BCA49D100A7599B /* ForgotPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB8C2BCA49D100A7599B /* ForgotPasswordVC.swift */; };
+		E3CDBB922BCA775500A7599B /* HomeVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3CDBB912BCA775500A7599B /* HomeVC.xib */; };
+		E3CDBB932BCA775500A7599B /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB902BCA775500A7599B /* HomeVC.swift */; };
+		E3CDBB962BCA7F7A00A7599B /* UserCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3CDBB952BCA7F7A00A7599B /* UserCell.xib */; };
+		E3CDBB972BCA7F7A00A7599B /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB942BCA7F7A00A7599B /* UserCell.swift */; };
+		E3CDBB992BCA812700A7599B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB982BCA812700A7599B /* User.swift */; };
+		E3CDBB9F2BCA97FB00A7599B /* UpdateDeleteVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3CDBB9E2BCA97FB00A7599B /* UpdateDeleteVC.xib */; };
+		E3CDBBA02BCA97FB00A7599B /* UpdateDeleteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDBB9D2BCA97FB00A7599B /* UpdateDeleteVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +94,18 @@
 		E3CDBB332BC91B8F00A7599B /* LessonFirebaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonFirebaseUITests.swift; sourceTree = "<group>"; };
 		E3CDBB352BC91B8F00A7599B /* LessonFirebaseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonFirebaseUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E3CDBB422BC91C4500A7599B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E3CDBB7B2BC9269900A7599B /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		E3CDBB7C2BC9269900A7599B /* RegisterVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RegisterVC.xib; sourceTree = "<group>"; };
+		E3CDBB8A2BC93A0E00A7599B /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		E3CDBB8C2BCA49D100A7599B /* ForgotPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordVC.swift; sourceTree = "<group>"; };
+		E3CDBB8D2BCA49D100A7599B /* ForgotPasswordVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ForgotPasswordVC.xib; sourceTree = "<group>"; };
+		E3CDBB902BCA775500A7599B /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		E3CDBB912BCA775500A7599B /* HomeVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeVC.xib; sourceTree = "<group>"; };
+		E3CDBB942BCA7F7A00A7599B /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
+		E3CDBB952BCA7F7A00A7599B /* UserCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UserCell.xib; sourceTree = "<group>"; };
+		E3CDBB982BCA812700A7599B /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		E3CDBB9D2BCA97FB00A7599B /* UpdateDeleteVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDeleteVC.swift; sourceTree = "<group>"; };
+		E3CDBB9E2BCA97FB00A7599B /* UpdateDeleteVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UpdateDeleteVC.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +125,7 @@
 				E3CDBB4C2BC91DD600A7599B /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */,
 				E3CDBB522BC91DD600A7599B /* FirebaseAuth in Frameworks */,
 				E3CDBB562BC91DD600A7599B /* FirebaseCrashlytics in Frameworks */,
+				E3CDBB812BC9343300A7599B /* Toast in Frameworks */,
 				E3CDBB762BC91DD600A7599B /* FirebaseRemoteConfigSwift in Frameworks */,
 				E3CDBB682BC91DD600A7599B /* FirebaseInAppMessaging-Beta in Frameworks */,
 				E3CDBB5A2BC91DD600A7599B /* FirebaseDatabaseSwift in Frameworks */,
@@ -104,13 +133,16 @@
 				E3CDBB7A2BC91DD600A7599B /* FirebaseStorageCombine-Community in Frameworks */,
 				E3CDBB742BC91DD600A7599B /* FirebaseRemoteConfig in Frameworks */,
 				E3CDBB502BC91DD600A7599B /* FirebaseAppDistribution-Beta in Frameworks */,
+				E3CDBB892BC9351800A7599B /* NVActivityIndicatorViewExtended in Frameworks */,
 				E3CDBB542BC91DD600A7599B /* FirebaseAuthCombine-Community in Frameworks */,
 				E3CDBB722BC91DD600A7599B /* FirebasePerformance in Frameworks */,
 				E3CDBB6A2BC91DD600A7599B /* FirebaseInAppMessagingSwift-Beta in Frameworks */,
 				E3CDBB782BC91DD600A7599B /* FirebaseStorage in Frameworks */,
 				E3CDBB5C2BC91DD600A7599B /* FirebaseDynamicLinks in Frameworks */,
 				E3CDBB602BC91DD600A7599B /* FirebaseFirestoreCombine-Community in Frameworks */,
+				E3CDBB872BC9351800A7599B /* NVActivityIndicatorView in Frameworks */,
 				E3CDBB702BC91DD600A7599B /* FirebaseMessaging in Frameworks */,
+				E3CDBB842BC934BF00A7599B /* IQKeyboardManagerSwift in Frameworks */,
 				E3CDBB6C2BC91DD600A7599B /* FirebaseInstallations in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -155,10 +187,11 @@
 		E3CDBB112BC91B8E00A7599B /* LessonFirebase */ = {
 			isa = PBXGroup;
 			children = (
+				E3CDBB8A2BC93A0E00A7599B /* BaseViewController.swift */,
+				E3CDBB9A2BCA815000A7599B /* view */,
+				E3CDBB9C2BCA81AF00A7599B /* model */,
 				E3CDBB122BC91B8E00A7599B /* AppDelegate.swift */,
 				E3CDBB142BC91B8E00A7599B /* SceneDelegate.swift */,
-				E3CDBB162BC91B8E00A7599B /* ViewController.swift */,
-				E3CDBB182BC91B8E00A7599B /* Main.storyboard */,
 				E3CDBB1B2BC91B8F00A7599B /* Assets.xcassets */,
 				E3CDBB1D2BC91B8F00A7599B /* LaunchScreen.storyboard */,
 				E3CDBB202BC91B8F00A7599B /* Info.plist */,
@@ -182,6 +215,41 @@
 				E3CDBB352BC91B8F00A7599B /* LessonFirebaseUITestsLaunchTests.swift */,
 			);
 			path = LessonFirebaseUITests;
+			sourceTree = "<group>";
+		};
+		E3CDBB9A2BCA815000A7599B /* view */ = {
+			isa = PBXGroup;
+			children = (
+				E3CDBB162BC91B8E00A7599B /* ViewController.swift */,
+				E3CDBB182BC91B8E00A7599B /* Main.storyboard */,
+				E3CDBB9B2BCA818D00A7599B /* Cell */,
+				E3CDBB902BCA775500A7599B /* HomeVC.swift */,
+				E3CDBB912BCA775500A7599B /* HomeVC.xib */,
+				E3CDBB7B2BC9269900A7599B /* RegisterVC.swift */,
+				E3CDBB7C2BC9269900A7599B /* RegisterVC.xib */,
+				E3CDBB8C2BCA49D100A7599B /* ForgotPasswordVC.swift */,
+				E3CDBB8D2BCA49D100A7599B /* ForgotPasswordVC.xib */,
+				E3CDBB9D2BCA97FB00A7599B /* UpdateDeleteVC.swift */,
+				E3CDBB9E2BCA97FB00A7599B /* UpdateDeleteVC.xib */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		E3CDBB9B2BCA818D00A7599B /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				E3CDBB942BCA7F7A00A7599B /* UserCell.swift */,
+				E3CDBB952BCA7F7A00A7599B /* UserCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		E3CDBB9C2BCA81AF00A7599B /* model */ = {
+			isa = PBXGroup;
+			children = (
+				E3CDBB982BCA812700A7599B /* User.swift */,
+			);
+			path = model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,6 +296,10 @@
 				E3CDBB752BC91DD600A7599B /* FirebaseRemoteConfigSwift */,
 				E3CDBB772BC91DD600A7599B /* FirebaseStorage */,
 				E3CDBB792BC91DD600A7599B /* FirebaseStorageCombine-Community */,
+				E3CDBB802BC9343300A7599B /* Toast */,
+				E3CDBB832BC934BF00A7599B /* IQKeyboardManagerSwift */,
+				E3CDBB862BC9351800A7599B /* NVActivityIndicatorView */,
+				E3CDBB882BC9351800A7599B /* NVActivityIndicatorViewExtended */,
 			);
 			productName = LessonFirebase;
 			productReference = E3CDBB0F2BC91B8E00A7599B /* LessonFirebase.app */;
@@ -303,6 +375,9 @@
 			mainGroup = E3CDBB062BC91B8E00A7599B;
 			packageReferences = (
 				E3CDBB442BC91DD600A7599B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				E3CDBB7F2BC9343300A7599B /* XCRemoteSwiftPackageReference "Toast-Swift" */,
+				E3CDBB822BC934BF00A7599B /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+				E3CDBB852BC9351800A7599B /* XCRemoteSwiftPackageReference "NVActivityIndicatorView" */,
 			);
 			productRefGroup = E3CDBB102BC91B8E00A7599B /* Products */;
 			projectDirPath = "";
@@ -322,8 +397,13 @@
 			files = (
 				E3CDBB1C2BC91B8F00A7599B /* Assets.xcassets in Resources */,
 				E3CDBB432BC91C4500A7599B /* GoogleService-Info.plist in Resources */,
+				E3CDBB9F2BCA97FB00A7599B /* UpdateDeleteVC.xib in Resources */,
 				E3CDBB1F2BC91B8F00A7599B /* Base in Resources */,
 				E3CDBB1A2BC91B8E00A7599B /* Base in Resources */,
+				E3CDBB962BCA7F7A00A7599B /* UserCell.xib in Resources */,
+				E3CDBB8E2BCA49D100A7599B /* ForgotPasswordVC.xib in Resources */,
+				E3CDBB7D2BC9269900A7599B /* RegisterVC.xib in Resources */,
+				E3CDBB922BCA775500A7599B /* HomeVC.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,7 +428,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3CDBB972BCA7F7A00A7599B /* UserCell.swift in Sources */,
+				E3CDBB8B2BC93A0E00A7599B /* BaseViewController.swift in Sources */,
+				E3CDBBA02BCA97FB00A7599B /* UpdateDeleteVC.swift in Sources */,
+				E3CDBB932BCA775500A7599B /* HomeVC.swift in Sources */,
 				E3CDBB172BC91B8E00A7599B /* ViewController.swift in Sources */,
+				E3CDBB8F2BCA49D100A7599B /* ForgotPasswordVC.swift in Sources */,
+				E3CDBB992BCA812700A7599B /* User.swift in Sources */,
+				E3CDBB7E2BC9269900A7599B /* RegisterVC.swift in Sources */,
 				E3CDBB132BC91B8E00A7599B /* AppDelegate.swift in Sources */,
 				E3CDBB152BC91B8E00A7599B /* SceneDelegate.swift in Sources */,
 			);
@@ -701,6 +788,30 @@
 				minimumVersion = 10.24.0;
 			};
 		};
+		E3CDBB7F2BC9343300A7599B /* XCRemoteSwiftPackageReference "Toast-Swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scalessec/Toast-Swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.1;
+			};
+		};
+		E3CDBB822BC934BF00A7599B /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.2;
+			};
+		};
+		E3CDBB852BC9351800A7599B /* XCRemoteSwiftPackageReference "NVActivityIndicatorView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ninjaprox/NVActivityIndicatorView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.1;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -838,6 +949,26 @@
 			isa = XCSwiftPackageProductDependency;
 			package = E3CDBB442BC91DD600A7599B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = "FirebaseStorageCombine-Community";
+		};
+		E3CDBB802BC9343300A7599B /* Toast */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E3CDBB7F2BC9343300A7599B /* XCRemoteSwiftPackageReference "Toast-Swift" */;
+			productName = Toast;
+		};
+		E3CDBB832BC934BF00A7599B /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E3CDBB822BC934BF00A7599B /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+		E3CDBB862BC9351800A7599B /* NVActivityIndicatorView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E3CDBB852BC9351800A7599B /* XCRemoteSwiftPackageReference "NVActivityIndicatorView" */;
+			productName = NVActivityIndicatorView;
+		};
+		E3CDBB882BC9351800A7599B /* NVActivityIndicatorViewExtended */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E3CDBB852BC9351800A7599B /* XCRemoteSwiftPackageReference "NVActivityIndicatorView" */;
+			productName = NVActivityIndicatorViewExtended;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
